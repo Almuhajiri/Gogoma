@@ -41,11 +41,11 @@ h2{
 	font-weight: bold;
 }
 h3{
-	font-weight: 34px;
+	font-weight: 36px;
 	font-weight: normal;
 }
 p{
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: normal;
 }
 .logo{
@@ -174,4 +174,57 @@ p{
 	color: #7D7D7D;
 	margin-top: -50px;
 	text-align: center;
+}
+.member-row{
+	margin-left: 10%;
+}
+.member-card{
+	float: left;
+	margin: 100px;
+	height: 450px;
+	width: 300px;
+	background-color: #fff;
+	box-shadow: 0 4px 25px rgba(0, 0, 0, 0.05);
+}
+.member-img{
+	margin-left: 25%;
+	margin-top: 25%;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+}
+.member-name{
+	margin-top: 50px;
+	font-weight: bold;
+	text-align: center;
+	color: #3C2D2D;
+}
+.member-job{
+	margin-top: -10px;
+	text-align: center;
+	color: #7D7D7D;
+}
+
+
+.footer{
+	margin-top: 800px;
+}
+.footer-left-p{
+	color: #3C2D2D;
+	font-weight: bold;
+	float: left;
+	margin: 0 100px;
+}
+.footer-right{
+	text-align: center;
+	float: right;
+	width: 50%;
+	background-color: #5A87FF;
+}
+.footer-right-p{
+	font-weight: bold;
+	color: #3C2D2D;
+}
+.social{
+	margin: 50px 25px;
 }
